@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "A",
+      "telefono": "D3ef",
+      "correo": "Ff33",
+      "empresa": "F34",
+      "id": 1
+    },
+    {
+      "nombre": "Hgb Actualizado",
+      "telefono": "Iugb",
+      "correo": "kbb",
+      "empresa": "Yiug",
+      "id": 2
+    },
+    {
+      "nombre": "Lifed",
+      "telefono": "rDo0",
+      "correo": "Cutd",
+      "empresa": "Ulu",
+      "id": 4
+    }
+  ]
+}
